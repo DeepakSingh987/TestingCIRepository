@@ -31,7 +31,10 @@ namespace Calculator
                     obj.AddMultipleNumbers();
                     break;
                 case 3:
-                    System.Console.WriteLine("Constrution in proess");
+                    System.Console.WriteLine("Enter Numbers to be substracted");
+                    int number3=Convert.ToInt32(Console.ReadLine());
+                    int number4=Convert.ToInt32(Console.ReadLine());
+                    obj.subtractTwoNumbers(number3,number4);
                     break;
                 case 4:
                     System.Console.WriteLine("Under Constrution");
@@ -47,6 +50,10 @@ namespace Calculator
 
         public void AddTwoNumbers(int number1,int number2){
             System.Console.WriteLine(value: number1 +number2);
+        }
+
+        public void subtractTwoNumbers(int number1,int number2){
+            System.Console.WriteLine(value: number1 -number2);
         }
 
         public void AddMultipleNumbers(){

@@ -1,0 +1,13 @@
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.csprojAssemblyReference.cache
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.csproj.CoreCompileInputs.cache
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.AssemblyInfoInputs.cache
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.AssemblyInfo.cs
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.exe
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.deps.json
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.runtimeconfig.json
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.runtimeconfig.dev.json
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.dll
+D:\SecondCode\TestingCIRepository\bin\Debug\netcoreapp3.1\TestingCIRepository.pdb
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.dll
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.pdb
+D:\SecondCode\TestingCIRepository\obj\Debug\netcoreapp3.1\TestingCIRepository.genruntimeconfig.cache
